@@ -1,0 +1,10 @@
+distro
+distros
+DMARC
+Keypress
+LEFTALT
+LEFTCTRL
+LEFTMETA
+LEFTSHIFT
+Smartshift
+sysfs

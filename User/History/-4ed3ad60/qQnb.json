@@ -1,0 +1,41 @@
+{
+    "workbench.activityBar.location": "top",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Visible Comments Nord Deep",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "projectManager.git.baseFolders": [
+        "/home"
+    ],
+    "cSpell.userWords": [
+        "clusterfuck",
+        "Dataview",
+        "fata",
+        "fuckery",
+        "hellscape",
+        "justinspencer",
+        "libsecret",
+        "nvme",
+        "pistolwhip",
+        "pistolwhipproductions",
+        "shitshow",
+        "ventoy"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.enablePreview": false,
+    "git.openRepositoryInParentFolders": "never",
+    "window.restoreFullscreen": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.customTitleBarVisibility": "auto",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-user": {
+            "name": "custom-dictionary-user",
+            "path": "~/.cspell/custom-dictionary-user.txt",
+            "addWords": true,
+            "scope": "user"
+        }
+    }
+}

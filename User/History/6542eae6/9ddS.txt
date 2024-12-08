@@ -1,0 +1,6 @@
+# Custom Dictionary Words
+Keypress
+LEFTMETA
+LEFTCTRL
+Smartshift
+LEFTSHIFT

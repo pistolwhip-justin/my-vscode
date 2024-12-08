@@ -1,0 +1,10 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-folder-my-logiops": {
+            "name": "custom-dictionary-folder-my-logiops",
+            "path": "${workspaceFolder:my-logiops}/.cspell/custom-dictionary-folder-my-logiops.txt",
+            "addWords": true,
+            "scope": "folder"
+        }
+    }
+}

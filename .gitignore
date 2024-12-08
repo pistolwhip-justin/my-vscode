@@ -1,0 +1,32 @@
+# VS Code workspace-specific files
+*.code-workspace
+.history/
+
+# VS Code crash reports and logs
+logs/
+*.log
+crash-report/
+
+# VS Code extension development
+.vscode-test/
+
+# Extension-specific storage
+.fake/
+.ionide/
+
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Keep all actual VS Code settings and configurations
+!settings.json
+!keybindings.json
+!snippets/
+!extensions.json
