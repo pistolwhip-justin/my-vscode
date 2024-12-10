@@ -12,5 +12,12 @@
 		"paths": [],
 		"tags": [],
 		"enabled": true
+	},
+	{
+		"name": "ai-prompts",
+		"rootPath": "/home/justin/Repositories/my-projects/ai-prompts",
+		"paths": [],
+		"tags": [],
+		"enabled": true
 	}
 ]

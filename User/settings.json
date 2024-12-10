@@ -43,5 +43,17 @@
             "addWords": true,
             "scope": "user"
         }
-    }
+    },
+    "snyk.yesWelcomeNotification": false,
+    "snyk.advanced.cliPath": "/home/justin/snap/code/176/.local/share/snyk-ls/snyk-linux",
+    "snyk.trustedFolders": [],
+    "snyk.folderConfigs": [
+        {
+            "folderPath": "/home/justin/Repositories/my-projects/my-ventoy",
+            "baseBranch": "main",
+            "localBranches": [
+                "main"
+            ]
+        }
+    ]
 }
