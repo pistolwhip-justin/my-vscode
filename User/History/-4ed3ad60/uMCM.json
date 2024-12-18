@@ -1,0 +1,66 @@
+{
+    "workbench.activityBar.location": "top",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Visible Comments Nord Deep",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "projectManager.git.baseFolders": [
+        "/home"
+    ],
+    "cSpell.userWords": [
+        "autofetch",
+        "clusterfuck",
+        "Dataview",
+        "fata",
+        "fuckery",
+        "grubx",
+        "HBLU",
+        "hellscape",
+        "justinspencer",
+        "libsecret",
+        "Nord",
+        "nvme",
+        "pistolwhip",
+        "pistolwhipproductions",
+        "secureboot",
+        "shitshow",
+        "ventoy",
+        "vtoy"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.enablePreview": false,
+    "git.openRepositoryInParentFolders": "never",
+    "window.restoreFullscreen": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.customTitleBarVisibility": "auto",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-user": {
+            "name": "custom-dictionary-user",
+            "path": "~/.cspell/custom-dictionary-user.txt",
+            "addWords": true,
+            "scope": "user"
+        }
+    },
+    "snyk.yesWelcomeNotification": false,
+    "snyk.advanced.cliPath": "/home/justin/snap/code/176/.local/share/snyk-ls/snyk-linux",
+    "snyk.trustedFolders": [],
+    "snyk.folderConfigs": [
+        {
+            "folderPath": "/home/justin/.vscode",
+            "baseBranch": "main",
+            "localBranches": [
+                "main"
+            ]
+        },
+        {
+            "folderPath": "/home/justin/Repositories/my-projects/pistolwhip-justin",
+            "baseBranch": "main",
+            "localBranches": [
+                "main"
+            ]
+        }
+    ]
+}

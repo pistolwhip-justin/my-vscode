@@ -115,6 +115,72 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/justin/Desktop/buymi.md",
+                                        "path": "/home/justin/Desktop/buymi.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/buymi.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/justin/Desktop/blocks-2.md",
+                                        "path": "/home/justin/Desktop/blocks-2.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/blocks-2.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/justin/Desktop/urls.txt",
+                                        "path": "/home/justin/Desktop/urls.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/urls.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/justin/Documents/cline/bookmarks-2024-12-16.json",
+                                        "path": "/home/justin/Documents/cline/bookmarks-2024-12-16.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/cline/bookmarks-2024-12-16.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/justin/bookmarks.html",
+                                        "path": "/home/justin/bookmarks.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/bookmarks.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/justin/Desktop/bookmarks-2024-12-16.json",
+                                        "path": "/home/justin/Desktop/bookmarks-2024-12-16.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/bookmarks-2024-12-16.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/justin/Downloads/Desktop/response.scrap-api-docs_v10.18.24.md",
                                         "path": "/home/justin/Downloads/Desktop/response.scrap-api-docs_v10.18.24.md",
                                         "scheme": "file"
@@ -154,72 +220,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Downloads/Desktop/DxDiag.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/Downloads/Desktop/15%20min%20call%20notes.md",
-                                        "path": "/home/justin/Downloads/Desktop/15 min call notes.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/Desktop/15 min call notes.md"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/Downloads/Add%20To%20OneNote/2024-05-02-conversations/2024-5-2/0-39-25-Short___Sweet_Preference.txt",
-                                        "path": "/home/justin/Downloads/Add To OneNote/2024-05-02-conversations/2024-5-2/0-39-25-Short___Sweet_Preference.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/Add To OneNote/2024-05-02-conversations/2024-5-2/0-39-25-Short___Sweet_Preference.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/Downloads/Downloads/pistolwhip.pro.txt",
-                                        "path": "/home/justin/Downloads/Downloads/pistolwhip.pro.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/Downloads/pistolwhip.pro.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/Downloads/Downloads/MarkDownload/Gemini.md",
-                                        "path": "/home/justin/Downloads/Downloads/MarkDownload/Gemini.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/Downloads/MarkDownload/Gemini.md"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/.local/share/applications/filezilla.desktop",
-                                        "path": "/home/justin/.local/share/applications/filezilla.desktop",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.local/share/applications/filezilla.desktop"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/justin/Downloads/Downloads/Documents/hyped-down-fork-color-theme.json",
-                                        "path": "/home/justin/Downloads/Downloads/Documents/hyped-down-fork-color-theme.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/Downloads/Documents/hyped-down-fork-color-theme.json"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1897,7 +1897,7 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 42,
+            "titleBarHeight": 35,
             "activityBarWidth": 0,
             "sideBarWidth": 387,
             "statusBarHeight": 22,
@@ -1913,11 +1913,10 @@
             "backupPath": "/home/justin/.config/Code/Backups/be839eba59646f1a565c7c28917df0e7",
             "uiState": {
                 "mode": 0,
-                "x": 1854,
+                "x": 1859,
                 "y": 77,
-                "width": 2320,
-                "height": 1228,
-                "zoomLevel": -1
+                "width": 2271,
+                "height": 1231
             }
         },
         "openedWindows": []
